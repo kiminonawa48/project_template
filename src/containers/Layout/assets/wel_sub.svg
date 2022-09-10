@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2271" height="480" viewBox="0 0 2271 480">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.5" x2="0" y2="1.261" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#019062"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.927" y1="-0.17" x2="-0.569" y2="2.437" gradientUnits="objectBoundingBox">
+      <stop offset="0.29" stop-color="#009062"/>
+      <stop offset="0.47" stop-color="#0f262c"/>
+    </linearGradient>
+    <clipPath id="clip-Logo">
+      <rect width="2271" height="480"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" clip-path="url(#clip-Logo)">
+    <g id="Group_14" data-name="Group 14" transform="translate(67.406 -3)">
+      <g id="logo-2" data-name="logo" transform="translate(14 44.5)">
+        <path id="Path_68" data-name="Path 68" d="M307.6,93.985H256.481l-93.07,147.024h51.122Z" transform="translate(157.246 52.266)" fill="url(#linear-gradient)"/>
+        <path id="Path_69" data-name="Path 69" d="M90.456,41H4L203.977,356l43.228-68.09Z" fill="#019062"/>
+        <path id="Path_70" data-name="Path 70" d="M232.647,41h51.122l-103,163.891H129.651Z" transform="translate(123.944)" fill="url(#linear-gradient-2)"/>
+        <path id="Path_71" data-name="Path 71" d="M156.31,41H69.853L268.326,353.632l43.228-68.092Z" transform="translate(64.959)" fill="#019062"/>
+      </g>
+    </g>
+  </g>
+</svg>
